@@ -252,6 +252,7 @@ namespace practica01
             Console.WriteLine("Empezando ....");
             for (int i = 1; i < 50; i++)
             {
+                //Cambio para usar git
                 Console.WriteLine(i);
             }
         }
