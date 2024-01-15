@@ -1,0 +1,8 @@
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\bin\Debug\PracticaHilos.exe.config
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\bin\Debug\PracticaHilos.exe
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\bin\Debug\PracticaHilos.pdb
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\obj\Debug\PracticaHilos.csproj.AssemblyReference.cache
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\obj\Debug\PracticaHilos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\obj\Debug\PracticaHilos.csproj.CoreCompileInputs.cache
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\obj\Debug\PracticaHilos.exe
+C:\Users\Jona\OneDrive - Escuela Politécnica Nacional\Ingeniería♡\7mo Semestre\AD - Aplicaciones Distribuidas\Labo\P1\practica01_SebastianC_JonathanP\PracticaHilos\obj\Debug\PracticaHilos.pdb
